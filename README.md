@@ -19,7 +19,7 @@
 
 ---
 
-## 📋 About This Repository
+## About This Repository
 
 This is the official project submission repository for **Database Management Systems (DBMS)** — Spring 2026, Iqra University Islamabad.
 
@@ -29,7 +29,7 @@ All students are required to submit their semester projects here by following th
 
 ---
 
-## 🗂️ Repository Structure
+## Repository Structure
 
 ```
 dbms-projects-spring2026/
@@ -51,7 +51,7 @@ dbms-projects-spring2026/
 
 ---
 
-## 🚀 How to Submit Your Project
+## How to Submit Your Project
 
 ### Step 1 — Fork this repository
 
@@ -83,7 +83,7 @@ mkdir projects/ali-hassan-41600
 cd projects/ali-hassan-41600
 ```
 
-> ⚠️ **Important:** Folder name must be `your-name-rollno` — no spaces, use hyphens.
+> **Important:** Folder name must be `your-name-rollno` — no spaces, use hyphens.
 
 ### Step 5 — Add your project files
 
@@ -116,7 +116,7 @@ git push origin feature/ali-hassan-41600
 
 ---
 
-## 📁 Project Folder README Template
+## Project Folder README Template
 
 Inside your folder, create a `README.md` with this structure:
 
@@ -140,7 +140,7 @@ Steps to set up and run your project.
 
 ---
 
-## ✅ Submission Checklist
+## Submission Checklist
 
 Before submitting your PR, make sure:
 
@@ -152,7 +152,7 @@ Before submitting your PR, make sure:
 
 ---
 
-## ❌ Common Mistakes to Avoid
+## Common Mistakes to Avoid
 
 | Wrong | Right |
 |---|---|
@@ -161,12 +161,6 @@ Before submitting your PR, make sure:
 | Missing README | Include README.md |
 | Wrong folder name | Use `name-rollno` format |
 | PR to wrong branch | Always target `main` |
-
----
-
-## 📞 Need Help?
-
-If you face any issues with Git or GitHub, refer to the workshop guide or reach out on the class group.
 
 ---
 
