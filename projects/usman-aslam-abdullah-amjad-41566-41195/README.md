@@ -2,6 +2,7 @@
 
 **Student Names:** Usman Aslam & Abdullah Amjad
 **Roll Numbers:** 41566 & 41195
+**Section:** BSCS
 **Course:** Database Systems (DBMS) — Spring 2026
 **Instructor:** Tayyaba Shehzad
 
